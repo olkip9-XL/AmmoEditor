@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AE_ModifiedDefsOnly>Modified Only</AE_ModifiedDefsOnly>
+  <AE_Category>Ammo Category</AE_Category>
+  <AE_All>All</AE_All>
+
+  <AE_Fragments>Fragments</AE_Fragments>
+  <AE_ExplotionRadius>Explotion Radius</AE_ExplotionRadius>
+  <AE_GasType>Gas</AE_GasType>
+
+  <AE_SuppressionFactor>Suppression Factor</AE_SuppressionFactor>
+
+  <AE_ResetAll>Reset All</AE_ResetAll>
+  
+  <AE_Reset>Reset</AE_Reset>
+  <AE_ResetMsg>Reset {0}</AE_ResetMsg>
+
+  <AE_Export>Export</AE_Export>
+  <AE_Import>Import</AE_Import>
+
+  <AE_ExportMsg>Export {0} items to {1}</AE_ExportMsg>
+  <AE_ImportMsg>Import {0} items from {1}</AE_ImportMsg>
+
+  <AE_ItemDes>{0}\n\nSource: {1}</AE_ItemDes>
+
+  <AE_HandGrenade>hand grenade</AE_HandGrenade>
+  <AE_Uncategorized>uncategorized</AE_Uncategorized>
+
+</LanguageData>

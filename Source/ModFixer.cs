@@ -1,19 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 using Verse;
 
 namespace AmmoEditor
 {
     [StaticConstructorOnStartup]
-    public class ModFixer
+    public static class ModFixer
     {
-        public ModFixer()
+        static ModFixer()
         {
-
+            Mod_AmmoEditor.settings.PostLoad();
         }
     }
 }

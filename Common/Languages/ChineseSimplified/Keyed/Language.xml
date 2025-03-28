@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AE_ModifiedDefsOnly>仅已修改</AE_ModifiedDefsOnly>
+  <AE_Category>弹药类别</AE_Category>
+  <AE_All>全部</AE_All>
+
+  <AE_Fragments>爆炸破片</AE_Fragments>
+  <AE_ExplotionRadius>爆炸半径</AE_ExplotionRadius>
+  <AE_GasType>爆炸烟雾</AE_GasType>
+
+  <AE_SuppressionFactor>压制系数</AE_SuppressionFactor>
+  
+  <AE_ResetAll>重置所有</AE_ResetAll>
+
+  <AE_Reset>重置</AE_Reset>
+  <AE_ResetMsg>重置了{0}</AE_ResetMsg>
+  
+  <AE_Export>导出</AE_Export>
+  <AE_Import>导入</AE_Import>
+  
+  <AE_ExportMsg>导出了{0}个项目至{1}</AE_ExportMsg>
+  <AE_ImportMsg>从{1}导入了{0}个项目</AE_ImportMsg>
+
+  <AE_ItemDes>{0}\n\n来源: {1}</AE_ItemDes>
+
+  <AE_HandGrenade>手榴弹</AE_HandGrenade>
+  <AE_Uncategorized>未分类</AE_Uncategorized>
+  
+</LanguageData>
